@@ -1,10 +1,3 @@
-FreeCAD TechDraw WorkBench template files which used by the People's Republic of China. 
-
-FreeCAD TechDraw 工作台模板文件，用于中华人民共和国技术制图用户。
-
-
-
-
 ![Logo](https://www.freecadweb.org/images/logo.png)
 
 ### Your own 3D parametric modeler
